@@ -1,5 +1,5 @@
 """
-Movie Success Prediction Pipeline
+[Movie Success Prediction Pipeline]
 This script implements the main workflow for predicting movie success and revenue.
 It combines data processing, model training, and evaluation in a comprehensive pipeline.
 """
